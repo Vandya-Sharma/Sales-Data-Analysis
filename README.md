@@ -8,7 +8,7 @@ This is a beginner-friendly data analysis project using the Superstore dataset. 
 ## 📊 Dashboard
 This project includes a Plotly-based dashboard for visualizing key insights from the Superstore Sales dataset.
 
-[View Interactive Dashboard](dashboard.html)
+[View Interactive Dashboard](https://vandya-sharma.github.io/sales-data-analysis/)
 
 ## 🛠️ Technologies Used
 - Python
@@ -27,7 +27,7 @@ This project includes a Plotly-based dashboard for visualizing key insights from
 
 ## 📂 Output
 - Final cleaned CSV file
-- [Interactive dashboard](dashboard.html)
+- [Interactive dashboard](https://vandya-sharma.github.io/sales-data-analysis/)
 
 ## 🚀 Objective
 To demonstrate foundational skills in Python-based data analysis and visualization.
