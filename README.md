@@ -8,7 +8,7 @@ This is a beginner-friendly data analysis project using the Superstore dataset. 
 ## 📊 Dashboard
 This project includes a Plotly-based dashboard for visualizing key insights from the Superstore Sales dataset.
 
-[View Interactive Dashboard (HTML on Google Drive)](https://drive.google.com/file/d/1CjslBJVpKp9Oe3vKn7GWTFr2GMpMxcp3/view?usp=drive_link)
+[View Interactive Dashboard (HTML on Google Drive)](https://drive.google.com/file/d/1CjslBJVpKp9Oe3vKn7GWTFr2GMpMxcp3/preview)
 
 ## 🛠️ Technologies Used
 - Python
@@ -27,7 +27,7 @@ This project includes a Plotly-based dashboard for visualizing key insights from
 
 ## 📂 Output
 - Final cleaned CSV file
-- [Interactive dashboard](https://drive.google.com/file/d/1CjslBJVpKp9Oe3vKn7GWTFr2GMpMxcp3/view?usp=drive_link)
+- [Interactive dashboard](https://drive.google.com/file/d/1CjslBJVpKp9Oe3vKn7GWTFr2GMpMxcp3/preview)
 
 ## 🚀 Objective
 To demonstrate foundational skills in Python-based data analysis and visualization.
