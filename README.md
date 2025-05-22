@@ -3,7 +3,7 @@
 This is a beginner-friendly data analysis project using the Superstore dataset. The project involves data cleaning, exploratory analysis, visualizations, and a dashboard.
 
 ## 📁 Dataset
-- [Download Sample Dataset (Superstore.csv)](Superstore.csv)
+- [Download Sample Dataset (Superstore.csv)](Sample_Superstore_Data.csv)
 
 ## 📊 Dashboard
 This project includes a Plotly-based dashboard for visualizing key insights from the Superstore Sales dataset.
