@@ -1,0 +1,5 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2016-152156,11/8/16,11/11/16,Claire Gute,Consumer,Henderson,Kentucky,South,Furniture,Bookcases,Bush Somerset Collection Bookcase,261.96,2,0.0,41.9136
+CA-2016-152157,11/8/16,11/11/16,Darrin Van Huff,Corporate,Los Angeles,California,West,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,731.94,3,0.0,219.582
+US-2015-108966,10/11/15,10/18/15,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,South,Office Supplies,Labels,Self-Adhesive Address Labels for Typewriters by Universal,14.62,2,0.0,6.8714
+US-2015-108967,10/11/15,10/18/15,Brosina Hoffman,Home Office,Los Angeles,California,West,Technology,Phones,Cisco SPA 501G IP Phone,213.48,2,0.2,16.7244
